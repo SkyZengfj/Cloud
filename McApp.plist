@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mcds.app.ios.mcapp.OtherApp</string>
+				<string>com.mcds.app.ios.OtherApp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
