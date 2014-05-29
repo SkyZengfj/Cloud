@@ -11,23 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.mcds.com/mcapp.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://www.mcds.com/large-icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://www.mcds.com/small-icon.png</string>
+					<string>https://raw.githubusercontent.com/SkyZengfj/Cloud/master/McApp.plist</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -38,10 +22,8 @@
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>mc app</string>
 				<key>title</key>
-				<string>McApp</string>
+				<string>Mc App</string>
 			</dict>
 		</dict>
 	</array>
