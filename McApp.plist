@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mcds.app.ios.mcapp.McApp</string>
+				<string>com.mcds.app.ios.mcapp.OtherApp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Mc App</string>
+				<string>Other App</string>
 			</dict>
 		</dict>
 	</array>
